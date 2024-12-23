@@ -1,3 +1,8 @@
+                                                                                        Dimanche, 22 Decembre 2024
+                                                                                        Bachelor 2 keyce Informatique & IA
+
+
+
 //////// Description de notre projet //////////
 
 Il s'agit la d'un projet de Gestion d'un parc informatique de maniere automatique Nommee SGPI.Auto pour : Systeme de Gestion d'un Parc Informatique
